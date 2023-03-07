@@ -16,7 +16,6 @@ public class Department {
 	}
 
 	public Department(int iD, String name) {
-		super();
 		this.ID = iD;
 		this.Name = name;
 	}
